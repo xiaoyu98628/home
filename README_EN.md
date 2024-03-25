@@ -13,7 +13,7 @@ Simple little homepage, had enough of the original one and made a new one
 
 >Due to CDN caching, you may need `Ctrl` + `F5` to force a browser cache refresh to see the latest results
 
-- [小煜の主页](http://www.yixuan.work)
+- [小煜の主页](http://www.imcgy.top)
 
 ### Functions
 
