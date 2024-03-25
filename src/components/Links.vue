@@ -48,6 +48,7 @@ import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper";
 import siteLinks from "@/assets/siteLinks.json";
+import { computed } from "vue";
 
 const store = mainStore();
 
@@ -77,7 +78,9 @@ const jumpLink = (data) => {
   if (data.name === "音乐" && store.musicClick) {
     if (typeof $openList === "function") $openList();
   } else {
-    window.open(data.link, "_blank");
+    if (data.link.length !== 0) {
+      window.open(data.link, "_blank");
+    }
   }
 };
 
