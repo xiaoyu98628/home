@@ -1,13 +1,7 @@
 简体中文 | [English](./README_EN.md)
 
-<p>
-<strong><h2>小煜の主页</h2></strong>
-简单的小主页，原来的看够了，重新弄了一个
-</p>
-
+## 小煜の主页
 ![小煜の主页](/screenshots/main.jpg)
-
->主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Other/Pacifico-Regular.ttf)，若无法下载，可将字体目录下的 `Pacifico-Regular-all.ttf` 进行替换
 
 ### Demo
 
@@ -83,12 +77,11 @@ docker run -p 12445:12445 -d home
   "icon": "Blog",						
   "name": "博客",						
   "link": "https://blog.imsyy.top/"	
-},
+}
 ```
 
 其中 `icon` 网站链接的图标可以在 `src/components/Links/index.vue` 中添加:
-
-```js
+```javascript
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 // 此处引入的是 fa 类型
 import {
@@ -102,7 +95,7 @@ import {
   LaptopCode,
 } from "@vicons/fa";
 
-...
+// ...
 
 // 网站链接图标
 const siteIcon = {
