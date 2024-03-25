@@ -1,7 +1,7 @@
 简体中文 | [English](./README_EN.md)
 
 ## 小煜の主页
-![小煜の主页](/screenshots/main.jpg)
+![小煜の主页](screenshots/main.jpg)
 
 ### Demo
 
