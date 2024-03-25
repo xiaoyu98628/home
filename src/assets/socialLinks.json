@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Gitee",
+    "icon": "/images/icon/gitee.png",
+    "tip": "去 Github 看看",
+    "url": "https://gitee.com/xiaoyucc521"
+  },
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/xiaoyu98628"
+  }
+]
