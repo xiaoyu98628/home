@@ -4,7 +4,7 @@
   "github": "https://github.com/xiaoyu98628/home",
   "home": "http://imcgy.top",
   "private": true,
-  "version": "4.1.4",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
