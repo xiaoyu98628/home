@@ -224,8 +224,6 @@ if (type == 0) {
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xiaoyu98628/home&type=Date)](https://star-history.com/#xiaoyu98628/home&Date)
-
 <a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=imcgy.top">
   <img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen" alt="">
 </a>
