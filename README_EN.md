@@ -133,4 +133,14 @@ make clean all
 * [高德开放平台](https://lbs.amap.com/)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>
+<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=imcgy.top">
+  <img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen" alt="">
+</a>
+&nbsp;
+<a title="CDN" target="_blank" href="https://cdnjs.com/">
+  <img src="https://img.shields.io/badge/CDN-Cloudflare-blue" alt="">
+</a>
+&nbsp;
+<a title="Copyright" target="_blank" href="https://imcgy.top/">
+  <img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2024-%E5%B0%8F%E7%85%9C-red" alt="">
+</a>
