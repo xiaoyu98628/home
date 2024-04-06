@@ -222,7 +222,6 @@ if (type == 0) {
 * [高德开放平台](https://lbs.amap.com/)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
-## Star History
 
 <a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=imcgy.top">
   <img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen" alt="">
