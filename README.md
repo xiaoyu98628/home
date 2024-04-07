@@ -1,5 +1,7 @@
 简体中文 | [English](./README_EN.md)
 
+网站原版来源与 [imsyy/home](https://github.com/imsyy/home)
+
 ## 小煜の主页
 ![小煜の主页](screenshots/main.jpg)
 
